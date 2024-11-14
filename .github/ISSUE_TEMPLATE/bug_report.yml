@@ -7,7 +7,7 @@ body:
     attributes:
       label: Have you checked if this issue already exists?
       options:
-        - label: yes
+        - label: "yes"
           required: true
   - type: markdown
     attributes:
