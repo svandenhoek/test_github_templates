@@ -18,9 +18,6 @@ body:
       options:
         - label: "yes"
           required: true
-  - type: markdown
-    attributes:
-      value:
   - type: input
     id: version
     attributes:
