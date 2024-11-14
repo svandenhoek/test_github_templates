@@ -33,3 +33,4 @@ body:
     attributes:
       label: Additional context
       description: Add any other context or screenshots about the feature request here.
+      placeholder: "If not implemented, RDF API will need a specific solution instead to ensure support for `mailto:`."
