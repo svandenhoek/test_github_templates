@@ -2,12 +2,18 @@ name: Bug Report
 description: Create a report to help us improve
 labels: ["bug"]
 body:
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Have you checked if this issue already exists?
+      options:
+        - label: yes
+          required: true
   - type: markdown
     attributes:
       value: |
         Before you submit a new issue, please take a moment to check if it hasn't already been reported. This helps us streamline our efforts and ensures that your concern is addressed efficiently.
 
-        #### How to Check for Existing Issues
         Search:
         Use the GitHub search bar to look for keywords related to your issue. This includes error messages, feature names, or any relevant terms.
         
