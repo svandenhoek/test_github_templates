@@ -57,7 +57,7 @@ body:
   - type: input
     id: device
     attributes:
-      label: Hardware information
+      label: Device
       description: If using a smartphone, what is the name of the device?
       placeholder: "iPhone SE 2022 / Samsung Galaxy A16"
   - type: input
