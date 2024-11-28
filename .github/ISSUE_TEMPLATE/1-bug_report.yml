@@ -70,3 +70,7 @@ body:
         - Device:
         - Operating system:
         - Browser:
+      placeholder: |
+        - Device: '....'
+        - Operating system: '....'
+        - Browser: '....'
