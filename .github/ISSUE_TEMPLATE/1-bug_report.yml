@@ -67,9 +67,9 @@ body:
         
         For smartphones we would appreciate filling in the exact device. For desktops/laptops, please use "Computer" instead.
       value: |
-        - Device:
-        - Operating system:
-        - Browser:
+        - Device: 
+        - Operating system: 
+        - Browser: 
       placeholder: |
         - Device: '....'
         - Operating system: '....'
